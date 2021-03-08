@@ -32,7 +32,7 @@ age = 0
 number=0
 
 bot = telebot.TeleBot("1522468171:AAEWg026vU5I3SXMc_OdA8L5HPg_vE72z7Y")
-bot.setWebhook()
+
 
 user_data={}
 
